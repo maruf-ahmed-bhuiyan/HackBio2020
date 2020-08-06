@@ -50,7 +50,7 @@ Main goal of the project is write small scripts in different languages with the 
   * [Perl](#Perl)
   * [Ruby](#Ruby)
   * [PHP](#PHP)
-  * [Script that generates csv using bash](Script-that-generates-csv-using-bash)
+  * [Script that generates csv using bash](#Script-that-generates-csv-using-bash)
 
 # Getting Started
 ## Prerequisites 
