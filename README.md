@@ -129,11 +129,10 @@ echo "$name, $email, $language, $biostack, $slack";
 
 ## Script that generates csv using bash
 ```bash
-
  +-+-+-+-+-+
  |M|a|r|u|f|
  +-+-+-+-+-+
-
+ 
 # this script executes all scripts in the directory
 #!/usr/bin/env bash
 
