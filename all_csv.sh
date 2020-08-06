@@ -1,8 +1,8 @@
 # this script executes all scripts in the directory
 #!/usr/bin/env bash
 
-# Clone the Team_Sanger_HackBio202 repository from GitHub using the URL for the repository
-git clone https://github.com/winfrednyoroka/TeamSanger_HackBio2020
+# Clone the this repository from GitHub using the URL for the repository
+git clone https://github.com/maruf-ahmed-bhuiyan/HackBio2020
 
 # Print the current working directory using pwd(print working directory)
 Pwd
@@ -11,7 +11,7 @@ Pwd
 ls
 
 # Change the directory to TeamSanger_HackBio2020
-cd ./TeamSanger_HackBio2020
+cd ./HackBio2020
 
 # Print the current working directory using pwd(print working directory)
 Pwd
@@ -31,5 +31,5 @@ ls script* | wc -l
 
 for i in $(ls script*)
 do
-	./$i | awk -F ',' '{print $1,$2,$3,$4,$5}' >> Team_Sanger.csv
+	./$i | awk -F ',' '{print $1,$2,$3,$4,$5}' >> all.csv
 done
