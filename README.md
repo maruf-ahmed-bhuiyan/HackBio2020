@@ -44,7 +44,12 @@ Main goal of the project is write small scripts in different languages with the 
 - [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
 - [Flowchart](#flowchart)
-- [Contributing](#Contributing)
+- [Codes](#Codes)
+  * [R](#R)
+  * [Python](#Python)
+  * [Perl](#Perl)
+  * [Ruby](#Ruby)
+  * [PHP](#PHP)
 
 # Getting Started
 ## Prerequisites 
@@ -55,22 +60,71 @@ Main goal of the project is write small scripts in different languages with the 
 - [Ruby](https://www.ruby-lang.org/en/)
 - Unix Based OS (awk command must be recognisable in shell/terminal)
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 # Flowchart
 
 ![WorkFlow_HackBio](https://github.com/maruf-ahmed-bhuiyan/HackBio2020/blob/master/Workflow.png) <br>
 Made by **Maruf Ahmed Bhuiyan**
 
-## Contributing
+# Codes 
+## R
+```R
+#!/usr/local/bin/Rscript
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated** 🎉
+name <- "Maruf Ahmed Bhuiyan"
+email <- "dr.marufahmed89@gmail.com"
+language <- "R"
+biostack <- "Genomics"
+slack <- "@Maruf"
 
-1. Clone the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+my_details <- c(name, email, language, biostack, slack)
+  
+cat(paste(my_details, collapse = ',')) 
+```
+## Python
+```python
+#!/usr/local/bin/python3
+
+name = "Maruf Ahmed Bhuiyan"
+email = "dr.marufahmed89@gmail.com"
+language = "Python"
+biostack = "Genomics"
+slack = "@Maruf"
+
+print("{}, {}, {}, {}, {}".format(name, email, language, biostack, slack))
+```
+## Perl
+```Perl
+#!/usr/local/bin/perl
+
+$name = 'Maruf Ahmed Bhuiyan';
+$email = 'dr.marufahmed89@gmail.com';
+$language = 'Perl';
+$biostack = 'Genomics';
+$slack = '@Maruf';
+
+print "$name, $email, $language, $biostack, $slack";
+```
+## Ruby
+```Ruby
+#!/usr/bin/ruby
+
+puts 'Maruf Ahmed Bhuiyan, dr.marufahmed89@gmail.com, Python, Genomics, @Maruf'
+```
+## PHP
+```PHP
+#!/usr/bin/php
+
+<?php
+$name = 'Maruf Ahmed Bhuiyan';
+$email = 'dr.marufahmed89@gmail.com';
+$language = 'PHP';
+$biostack = 'Genomics';
+$slack = '@Maruf';
+
+echo "$name, $email, $language, $biostack, $slack";
+
+?>
+```
 
 Thanks! ❤️
 
