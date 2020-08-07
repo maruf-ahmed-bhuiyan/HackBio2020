@@ -15,8 +15,6 @@
 
 - How to reach me? **dr.maruahmed89@gmail.com**
 
-- Check out my website: [Maruf Ahmed Bhuiyan](https:marufahmed.carrd.co)
-
 - Fun fact: **I Love Programming**
 
 <p align="center">
