@@ -3,7 +3,7 @@
   <a href="https://twitter.com/tbi_internship"><img src="https://pbs.twimg.com/profile_banners/1231617259086413825/1592775608/600x200" alt="HackBio"></a>
 </h1>
 
-<h1 align="center"> HackBio Internship Programme </h1>
+<h2 align="center"> HackBio Internship Programme </h2>
 <h3 align="center"> Hello, This is Maruf Ahmed Bhuiyan </h3>
 <h4 align="center"> I am a doctor by profession and a researcher by passion. I am currently pursuing my Doctor of Medicine (MD) in Virology in the Department of Virology at Bangabandhu Sheikh Mujib Medical University. I am passionate about impactful research and constantly on the hunt to acquire new skills. </h4>
 
