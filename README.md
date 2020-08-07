@@ -1,3 +1,6 @@
+<p align="center"> ![HackBio](https://pbs.twimg.com/profile_banners/1231617259086413825/1592775608/600x200)</p>
+<p align="center"> Image Source: [@tbi_internship](https://twitter.com/tbi_internship) </p>
+
 <h1 align="center"> HackBio2020 </h1>
 <h1 align="center"> HackBio Internship Programme </h1>
 <h3 align="center"> Hello, This is Maruf Ahmed Bhuiyan </h3>
@@ -51,6 +54,18 @@ Main goal of the project is write small scripts in different languages with the 
   * [Ruby](#Ruby)
   * [PHP](#PHP)
   * [Script that generates csv using bash](#Script-that-generates-csv-using-bash)
+  
+<p align="center">
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#flowchart">Flowchart</a> •
+  <a href="#Codes">Codes</a> •
+  <a href="#R">R</a> •
+  <a href="#Python">Python</a> •
+  <a href="#Perl">Perl</a> •
+  <a href="#Ruby">Ruby</a> •
+  <a href="#PHP">PHP</a> •
+</p>
 
 # Getting Started
 ## Prerequisites 
