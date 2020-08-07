@@ -160,4 +160,4 @@ done
 
 Thanks! ❤️
 
-![Footer](https://github.com/navendu-pottekkat/awesome-readme/blob/master/fooooooter.png)
+![Footer](https://www.nicepng.com/png/full/293-2930429_footer-illustration.png)
