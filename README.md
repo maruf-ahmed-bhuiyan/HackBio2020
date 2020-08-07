@@ -18,14 +18,13 @@
 
 - How to reach me? **dr.maruahmed89@gmail.com**
 
-- Fun fact **I Love Programming**
+- Fun fact: **I Love Programming**
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"
-         alt="Gitter">
-</p>
-  
+        alt="Gitter"></p>
+
 <p align="center">
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#flowchart">Flowchart</a> •
