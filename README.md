@@ -20,7 +20,10 @@
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"
-    <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan" alt="HackBio"/>	
+  </a>
+  <a href="https://github.com/maruf-ahmed-bhuiyan">
+      <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan">
+  </a>
 </p>
 
 <p align="center">
