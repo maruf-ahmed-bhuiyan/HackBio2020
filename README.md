@@ -25,9 +25,6 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"
          alt="Gitter">
 </p>
-
-This is my repository for the HackBio'2020 Virtual Internship Experience.
-Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, used_language, biostack, slack_username`. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts.
   
 <p align="center">
   <a href="#prerequisites">Prerequisites</a> •
@@ -37,7 +34,7 @@ Main goal of the project is write small scripts in different languages with the 
   <a href="#Python">Python</a> •
   <a href="#Perl">Perl</a> •
   <a href="#Ruby">Ruby</a> •
-  <a href="#PHP">PHP</a> •
+  <a href="#PHP">PHP</a>
 </p>
 
 # Prerequisites 
