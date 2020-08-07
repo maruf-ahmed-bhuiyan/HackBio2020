@@ -29,18 +29,6 @@
 
 This is my repository for the HackBio'2020 Virtual Internship Experience.
 Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, used_language, biostack, slack_username`. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts.
-
-# 🚩 Table of content
-- [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-- [Flowchart](#flowchart)
-- [Codes](#Codes)
-  * [R](#R)
-  * [Python](#Python)
-  * [Perl](#Perl)
-  * [Ruby](#Ruby)
-  * [PHP](#PHP)
-  * [Script that generates csv using bash](#Script-that-generates-csv-using-bash)
   
 <p align="center">
   <a href="#getting-started">Getting Started</a> •
