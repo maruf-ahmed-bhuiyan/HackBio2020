@@ -1,29 +1,39 @@
-<p align="center"> ![HackBio](https://pbs.twimg.com/profile_banners/1231617259086413825/1592775608/600x200)</p>
-<p align="center"> Image Source: [@tbi_internship](https://twitter.com/tbi_internship) </p>
+<h1 align="center">
+  <br>
+  <a href="https://twitter.com/tbi_internship"><img src="https://pbs.twimg.com/profile_banners/1231617259086413825/1592775608/600x200" alt="HackBio"></a>
+</h1>
 
-<h1 align="center"> HackBio2020 </h1>
 <h1 align="center"> HackBio Internship Programme </h1>
 <h3 align="center"> Hello, This is Maruf Ahmed Bhuiyan </h3>
-<h4 align="center"> I am a doctor by profession and a researcher by passion. I am currently pursuing my Doctor of Medicine (MD) in Virology in the Department of Virology at Bangabandhu Sheikh Mujib Medical University. I am passionate about impactful research and am constantly on the hunt to acquire new skills. 🖨️</h4>
+<h4 align="center"> I am a doctor by profession and a researcher by passion. I am currently pursuing my Doctor of Medicine (MD) in Virology in the Department of Virology at Bangabandhu Sheikh Mujib Medical University. I am passionate about impactful research and am constantly on the hunt to acquire new skills. </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan" alt="HackBio"/> </p>
 
 
-- 🔭 I are currently working on **Genomics, Vaccinomics, Computer Aided Drug Design, Machine Learning, Data Analaysis, Interactomics**
+-  I are currently working on **Genomics, Vaccinomics, Computer Aided Drug Design, Machine Learning, Data Analaysis, Interactomics**
 
-- 👨‍💻 HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/)
+-  HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/)
 
-- 💬 Ask us about **Anything Science! I am passionate about talking science🔬**
+- Ask me about **Anything Science! I am passionate about talking science🔬**
 
-- 📫 How to reach me? **dr.maruahmed89@gmail.com**
+- How to reach me? **dr.maruahmed89@gmail.com**
 
-- ⚡ Fun fact **I Love Programming🤗**
-
-<p align="center">
- 
-</p>
+- Fun fact **I Love Programming🤗**
 
 # Project
+<p align="center">
+  <a href="https://badge.fury.io/js/electron-markdownify">
+    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+         alt="Gitter">
+  </a>
+  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
+  <a href="https://saythanks.io/to/amitmerchant1990">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  </a>
+  <a href="https://www.paypal.me/AmitMerchant">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+</p>
 
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat)](http://makeapullrequest.com)
