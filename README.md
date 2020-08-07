@@ -14,7 +14,7 @@
 - Ask me about **Anything Science! I am passionate about talking science**
 
 - How to reach me? **dr.maruahmed89@gmail.com**
-- My webste: [Maruf Ahmed Bhuiyan](www.marufahemd.carrd.co)
+- My webste: [Maruf Ahmed Bhuiyan](www.marufahmed.carrd.co)
 
 - Fun fact: **I Love Programming**
 
