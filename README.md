@@ -31,7 +31,6 @@ This is my repository for the HackBio'2020 Virtual Internship Experience.
 Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, used_language, biostack, slack_username`. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts.
   
 <p align="center">
-  <a href="#getting-started">Getting Started</a> •
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#flowchart">Flowchart</a> •
   <a href="#Codes">Codes</a> •
@@ -42,8 +41,7 @@ Main goal of the project is write small scripts in different languages with the 
   <a href="#PHP">PHP</a> •
 </p>
 
-# Getting Started
-## Prerequisites 
+# Prerequisites 
 - [Perl](https://www.perl.org/get.html)
 - [PHP](https://www.php.net/)
 - [Python language](https://www.python.org/)
