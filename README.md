@@ -158,6 +158,4 @@ do
 done
 ```
 
-Thanks! ❤️
-
 ![Footer](https://www.nicepng.com/png/full/293-2930429_footer-illustration.png)
