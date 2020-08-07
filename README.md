@@ -48,7 +48,6 @@
 # Flowchart
 
 ![WorkFlow_HackBio](https://github.com/maruf-ahmed-bhuiyan/HackBio2020/blob/master/Workflow.png) <br>
-Made by **Maruf Ahmed Bhuiyan**
 
 # Codes 
 ## R
