@@ -7,9 +7,6 @@
 <h3 align="center"> Hello, This is Maruf Ahmed Bhuiyan </h3>
 <h4 align="center"> I am a doctor by profession and a researcher by passion. I am currently pursuing my Doctor of Medicine (MD) in Virology in the Department of Virology at Bangabandhu Sheikh Mujib Medical University. I am passionate about impactful research and am constantly on the hunt to acquire new skills. </h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan" alt="HackBio"/> </p>
-
-
 -  I are currently working on **Genomics, Vaccinomics, Computer Aided Drug Design, Machine Learning, Data Analaysis, Interactomics**
 
 -  HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/)
@@ -23,7 +20,8 @@
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg"
-        alt="Gitter"></p>
+    <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan" alt="HackBio"/>	
+</p>
 
 <p align="center">
   <a href="#prerequisites">Prerequisites</a> •
