@@ -14,34 +14,18 @@
 
 -  HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/)
 
-- Ask me about **Anything Science! I am passionate about talking science🔬**
+- Ask me about **Anything Science! I am passionate about talking science**
 
 - How to reach me? **dr.maruahmed89@gmail.com**
 
-- Fun fact **I Love Programming🤗**
+- Fun fact **I Love Programming**
 
 # Project
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg"
          alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/amitmerchant1990">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
 </p>
-
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg?style=flat)](http://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
- 
-![HackBio](https://pbs.twimg.com/profile_banners/1231617259086413825/1592775608/600x200) <br>
-Image Source: [@tbi_internship](https://twitter.com/tbi_internship)
 
 > This is the main repository for the HackBio'2020 Virtual Internship Experience. <br>
 Main goal of the project is write small scripts in different languages with the next output in sdout - `name, e-mail, used_language, biostack, slack_username`. Next step is to make csv file with rows corresponding to the person and columns to the values (as name, e-mail, etc) in bash, using sdout from scripts. <br>
