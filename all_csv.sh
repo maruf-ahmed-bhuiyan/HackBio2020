@@ -10,7 +10,7 @@ Pwd
 # List the files of the directory
 ls
 
-# Change the directory to TeamSanger_HackBio2020
+# Change the directory to HackBio2020
 cd ./HackBio2020
 
 # Print the current working directory using pwd(print working directory)
